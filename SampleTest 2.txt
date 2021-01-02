@@ -1,0 +1,3 @@
+﻿This is first code file.
+
+I am a C# developer and i like games.
